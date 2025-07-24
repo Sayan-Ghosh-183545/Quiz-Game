@@ -2,18 +2,6 @@
 
 A console-based quiz application built with Java that tests your knowledge of Java programming fundamentals, specifically data type sizes.
 
-## 📋 Table of Contents
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [How to Run](#how-to-run)
-- [How to Play](#how-to-play)
-- [Project Structure](#project-structure)
-- [Code Overview](#code-overview)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [Author](#author)
-
 ## ✨ Features
 
 - Console-based interactive quiz interface
